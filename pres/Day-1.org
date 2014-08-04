@@ -1,0 +1,53 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+TITLE: Day 1
+#+DATE: 2014-08-06
+#+AUTHOR: Omar Adair Islas Ramírez
+#+EMAIL: 
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:nil reveal_keyboard:t reveal_mathjax:t
+#+OPTIONS: reveal_overview:t reveal_progress:t
+#+OPTIONS: reveal_rolling_links:nil reveal_slide_number:t
+#+OPTIONS: reveal_width:-1
+#+REVEAL_MARGIN: -1
+#+REVEAL_MIN_SCALE: -1
+#+REVEAL_MAX_SCALE: -1
+#+REVEAL_ROOT: ./reveal.js
+#+REVEAL_TRANS: concave
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: solarized
+#+REVEAL_EXTRA_CSS:
+#+REVEAL_EXTRA_JS:
+#+REVEAL_HLEVEL: 1
+#+REVEAL_MATHJAX_URL: ./MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#+REVEAL_PREAMBLE:
+#+REVEAL_HEAD_PREAMBLE:
+#+REVEAL_POSTAMBLE:
+
+* Introduction
+
+#+ATTR_LATEX: width: .8\textwidth
+#+ATTR_HTML: width: "70%"
+#+CAPTION: SPENCER Logo
+#+LABEL:   fig:spencer
+http://spencer.eu/images/background-home-nomenu.png
+
+** Context
+
+** Scenario
+
+* Modeling: Back to the basics
+- Psychology and abstraction of human behavior (HB)
+- AI: learning algorithms, mainly Reinforcement Learning
+- Robotics Navigation
+
+* Stochasticity
+Because we live in a real world.

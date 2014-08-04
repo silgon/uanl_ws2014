@@ -1,0 +1,6 @@
+[submodule "pres/MathJax"]
+        path = pres/MathJax
+        url = git@github.com:mathjax/MathJax.git
+[submodule "pres/reveal.js"]
+        path = pres/reveal.js
+        url = git@github.com:hakimel/reveal.js.git
