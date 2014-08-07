@@ -12,7 +12,7 @@ r = Robot2R()
 p_ini = r.termpos(q_ini)
 plt.plot([p_ini[0], p_goal[0]], [p_ini[1], p_goal[1]], 'r')
 q = q_ini
-nIter = 5
+nIter = 20
 dx=(p_goal-p_ini)/nIter
 r.draw(q)
 for i in range(nIter):
